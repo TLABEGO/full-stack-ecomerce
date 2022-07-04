@@ -1,7 +1,7 @@
 # Getting Started with react-typescript ecommerce project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is the starting project
-pint for the React Typescript Tutorial Ecommerce Shop in Udemy.
+pint for the React Typescript project.
 
 ## How to setup
 
